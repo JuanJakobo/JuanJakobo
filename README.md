@@ -1,20 +1,19 @@
 ### Hi there 👋
 
 Doing stuff with Pocketbook ebook reader.
- 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/JuanJakobo)
 
-<!--
-**JuanJakobo/JuanJakobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[!["Buy Me A Water"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/JuanJakobo)
 
-Here are some ideas to get you started:
+### Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**OS**: Linux Arch.
+
+**Window manager**: i3.
+
+**Browser**: Firefox (with uMatrix, uBlock Origin, Tridactyl and Tabs hidden).
+
+**Email**: Thunderbird.
+
+**IDE**: NeoVim and Intellij IDEA Community.
+
+**DNS**: NextDNS.
