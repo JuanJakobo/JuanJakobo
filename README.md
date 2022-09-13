@@ -17,3 +17,5 @@ Doing stuff with Pocketbook ebook reader.
 **IDE**: NeoVim and Intellij IDEA Community.
 
 **DNS**: NextDNS.
+
+[![Most used](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjakobo)](https://github.com/anuraghazra/github-readme-stats)
